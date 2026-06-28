@@ -17,8 +17,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=e0d7ff&labelColor=302b63)](https://krishnakrjhaportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=e0d7ff&labelColor=302b63)](https://www.linkedin.com/in/krishnakrjha)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=e0d7ff&labelColor=302b63)]([https://leetcode.com/](https://leetcode.com/u/Krishna_jha7/))
-[![Email](https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=e0d7ff&labelColor=302b63)](mailto:krishna7kumarjha@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=e0d7ff&labelColor=302b63)](https://leetcode.com/u/Krishna_jha7/)
+[![Email](https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=e0d7ff&labelColor=302b63)](krishna7kumarjha@gmail.com)
 
 </div>
 
